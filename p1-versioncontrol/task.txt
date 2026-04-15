@@ -1,4 +1,7 @@
 Prisma  : https://github.com/ak7prisma/Card-Battle
+Fachri S: https://github.com/fachriisy/bebek-fachri.git
+m.farrel rf: https://github.com/qiuFrrl/tugas.git
 Radit : https://github.com/raditkal/PEMVIS
 Fachri S: https://github.com/fachriisy/bebek-fachri.git
 Bimo    : https://github.com/Urielele/Taxi-Trip-Data-Warehouse
+Tegar P : https://github.com/tegarprasety0/taskbelajargit
