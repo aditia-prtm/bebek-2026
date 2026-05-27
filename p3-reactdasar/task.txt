@@ -1,2 +1,1 @@
-[Nama] : [repositoryLink]
-
+Adit : https://github.com/aditia-prtm/ADTX-Course
