@@ -3,3 +3,4 @@ M.Farrel RF : https://github.com/qiuFrrl/DomoreWevb.git
 Farhan : https://github.com/farhandays/TaskBebek/tree/main/Task3
 Noufal : https://github.com/Noufalpali/belajartailwind.git
 Fachry : https://github.com/yaigacor/tugas-3-react.git
+Tegar  : https://github.com/tegarprasety0/bebek-task3-Tegar.git
