@@ -1,5 +1,5 @@
 Adit : https://github.com/aditia-prtm/ADTX-Course
-M.Farrel RF : https://github.com/qiuFrrl/DomoreWevb.git
+M.Farrel RF : https://github.com/qiuFrrl/DomoreWeb.git
 Farhan : https://github.com/farhandays/TaskBebek/tree/main/Task3
 Noufal : https://github.com/Noufalpali/belajartailwind.git
 Fachry : https://github.com/yaigacor/tugas-3-react.git
