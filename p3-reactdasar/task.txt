@@ -11,3 +11,4 @@ ANDRA  : https://github.com/lilkyogre03-netizen/Journal.git
 Felix  : https://github.com/feliix-bert/TAMA-TASK-MANAGER-.git
 Zaki   : https://github.com/kaita937/tugas-pert3-Zaki
 Fachri s: https://github.com/fachriisy/p3-bebek.git
+Zulae  : https://github.com/beautifulmonsta/tugas-react
