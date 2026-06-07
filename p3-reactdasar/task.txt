@@ -6,3 +6,4 @@ Fachry : https://github.com/yaigacor/tugas-3-react.git
 Bimo   : https://github.com/Urielele/personal-webeem
 Tegar  : https://github.com/tegarprasety0/bebek-task3-Tegar.git
 Rillah : https://github.com/SerenaaaaRN/belajar-react-bebek.git
+Radit  : https://github.com/raditkal/himata-ifcup
