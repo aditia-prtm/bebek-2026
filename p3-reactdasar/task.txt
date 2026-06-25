@@ -1,2 +1,16 @@
-[Nama] : [repositoryLink]
-
+Adit : https://github.com/aditia-prtm/ADTX-Course
+M.Farrel RF : https://github.com/qiuFrrl/DomoreWeb.git
+Farhan : https://github.com/farhandays/TaskBebek/tree/main/Task3
+Noufal : https://github.com/Noufalpali/belajartailwind.git
+Fachry : https://github.com/yaigacor/tugas-3-react.git
+Bimo   : https://github.com/Urielele/personal-webeem
+Tegar  : https://github.com/tegarprasety0/bebek-task3-Tegar.git
+Rillah : https://github.com/SerenaaaaRN/belajar-react-bebek.git
+Radit  : https://github.com/raditkal/himata-ifcup
+ANDRA  : https://github.com/lilkyogre03-netizen/Journal.git
+Zulae  : https://github.com/beautifulmonsta/tugas-react
+Felix  : https://github.com/feliix-bert/TAMA-TASK-MANAGER-.git
+Zaki   : https://github.com/kaita937/tugas-pert3-Zaki
+Fachri s: https://github.com/fachriisy/p3-bebek.git
+Zulae  : https://github.com/beautifulmonsta/tugas-react
+Rizki : https://github.com/RizkiArdiansyah-www/BelajarReact.git
